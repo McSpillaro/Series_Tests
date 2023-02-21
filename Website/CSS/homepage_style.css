@@ -44,3 +44,9 @@ button {
   outline: none;
   cursor: pointer;
 }
+
+#calculatorButton {
+  font-size: large;
+  font-style: bold;
+  color: white;
+}
